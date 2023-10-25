@@ -2,6 +2,8 @@
 A simple web app to insert captions onto videos. This web-app is built using React, NextJS and Amazon AWS for storage and video transcription services.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/raj978/AggieScribe/assets/63549601/046b8594-cd22-495e-a03a-e807f511a271)
+
 
 ## Getting Started
 
