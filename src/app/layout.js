@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
             <nav className="flex items-center gap-2 sm: gap-6 text-black/55 text-sm sm:text-lg">
               <Link href="/">Home</Link>
               <Link href="/pricing">Pricing</Link>
-              <a href="mailto:contact@aggiescript.com">Contact</a>
+              <a href="mailto:guptarajat978@gmail.com">Contact</a>
             </nav>
           </header>
           {children}
