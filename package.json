@@ -13,6 +13,7 @@
     "@aws-sdk/client-transcribe": "^3.529.1",
     "@ffmpeg/ffmpeg": "^0.12.10",
     "@ffmpeg/util": "^0.12.1",
+    "@vercel/analytics": "^1.2.2",
     "aws-crt": "^1.21.1",
     "axios": "^1.6.7",
     "next": "13.5.4",
